@@ -1,0 +1,3 @@
+25/11/2014
+Algoritmo recebe duas normas e retorna se estão em conflito
+
